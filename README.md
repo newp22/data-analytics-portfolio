@@ -14,7 +14,7 @@ Skills:
 * Data visualization
 
 Repository:
-[Bellabeat Case Study](https://github.com/newp22/bellabeat-case-study)
+[Bellabeat Case Study](https://github.com/newp22/case-study-bellabeat)
 
 ---
 
