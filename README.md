@@ -15,7 +15,7 @@ Repository:
 
 ---
 ### Cyclistic Case Study
-Analyzed one year of Cyclistic bike-share trip data using BigQuery SQL and Tableau to identify differences between annual members and casual riders and develop data-driven marketing recommendations.
+Analyzed one year of Cyclistic bike-share trip data using BigQuery SQL and Tableau to identify differences between annual members and casual riders and develop marketing recommendations.
 
 Skills:
 * Data cleaning & validation
